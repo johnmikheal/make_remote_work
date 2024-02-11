@@ -1,0 +1,47 @@
+
+i.fa-clipboard-list{
+    color: rgb(180, 4, 255);
+}
+i.fa-calendar-days{
+    color: rgb(0, 191, 255);
+}
+i.fa-bell{
+    color: rgb(219, 219, 25);
+}
+i.fa-crosshairs{
+    color: rgb(208, 53, 255);
+}
+a.navbar-brand{
+    font-weight:bold;
+}
+button{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;   
+}
+button:hover{
+    background-color: green;
+    transition: all 0.5s;
+}
+.card2{
+    overflow: hidden;
+}
+/* .card2 img{
+    width: 800px;
+    height: 700px;
+} */
+h1{
+    font-size: 80px;
+}
+div .my{
+    color: black;
+    margin-bottom: 50px;
+
+}
+.my:hover{
+color: rgb(3, 255, 255);
+transition: all 0.5;
+
+}
